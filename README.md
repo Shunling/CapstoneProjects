@@ -10,7 +10,7 @@ In this repository, we have the following in-depth full stack Data Science proje
 <b>House Price prediction:</b> <ol>
 •Full stack Data Science project including data cleaning, wrangling, EDA, statistical analysis, polynomial/random_forest/Xgboost modeling for machine learning and storytelling.
 <br/>
-•Detail analysis of feature distribution, correlation and causation with house price, mined important features for marketing, prediction precision within an average \$10k for each house buyer and \$20k for each seller.
+•Detail analysis of feature distribution, correlation and causation with house price, mined important features for marketing, prediction precision within an average $10k for each house buyer and $20k for each seller.
 <br/>
 •Tools used: pandas, numpy, json, matplotlib, seaborns, ipython, ipywidgets, sklearn, pickle, statsmodel, scipy, xgboost.
 </div>
