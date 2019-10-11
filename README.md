@@ -21,6 +21,8 @@ In this repository, we have the following in-depth full stack Data Science proje
 
     
 [Final report](https://github.com/Shunling/CapstoneProjects/blob/master/HousePriceRegression/HousePriceAdvancedRegression-Report.pdf)
+
+[Presentation](https://github.com/Shunling/CapstoneProjects/blob/master/HousePriceRegression/HousePricePrediction.pptx)
 </div>
   
 ### Jupyter Notebooks:
