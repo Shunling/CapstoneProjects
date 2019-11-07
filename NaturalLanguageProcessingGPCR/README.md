@@ -22,14 +22,28 @@
 
 <li> Data collection, cleaning, wrangling </div>
 
-[DataCuration](https://github.com/Shunling/CapstoneProjects/blob/master/NaturalLanguageProcessingGPCR/fetch_PubMed_Articles.ipynb)
+[DataCuration](https://github.com/Shunling/CapstoneProjects/blob/master/NaturalLanguageProcessingGPCR/DataCollection.ipynb)
 
-[DataCleaning](https://github.com/Shunling/CapstoneProjects/blob/master/NaturalLanguageProcessingGPCR/Data_Cleaning_strip_HTML_refill_date.ipynb)
+[DataCleaning](https://github.com/Shunling/CapstoneProjects/blob/master/NaturalLanguageProcessingGPCR/DataCleaning.ipynb)
 
-[DataWrangling](https://github.com/Shunling/CapstoneProjects/blob/master/NaturalLanguageProcessingGPCR/Data_cleaning_text_year_keyword.ipynb)
+[DataWrangling and Preprocessing](https://github.com/Shunling/CapstoneProjects/blob/master/NaturalLanguageProcessingGPCR/DataPreprocessing.ipynb)
+
 
 <li> Modeling </div>
 
-[TextAnalysis](https://github.com/Shunling/CapstoneProjects/blob/master/NaturalLanguageProcessingGPCR/Text_Analysis.ipynb)
+[Phrase modeling](https://github.com/Shunling/CapstoneProjects/blob/master/NaturalLanguageProcessingGPCR/FourgramPhrases_Text.ipynb)
 
+[Word2Vec vectorizing](https://github.com/Shunling/CapstoneProjects/blob/master/NaturalLanguageProcessingGPCR/WordVecterization_Word2Vec.ipynb)
+
+[Clustering for topic modeling](https://github.com/Shunling/CapstoneProjects/blob/master/NaturalLanguageProcessingGPCR/Clustering.ipynb)
+
+
+<li> Data Insights </div>
+[Topic analysis](https://github.com/Shunling/CapstoneProjects/blob/master/NaturalLanguageProcessingGPCR/TopicPrediction.ipynb)
+
+[Research trend of receptors]()
+
+[Research trend of topics]()
+
+[Research trend of drug discovery]()
 
