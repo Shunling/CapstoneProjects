@@ -41,9 +41,4 @@
 <li> Data Insights </div>
 [Topic analysis](https://github.com/Shunling/CapstoneProjects/blob/master/NaturalLanguageProcessingGPCR/TopicPrediction.ipynb)
 
-[Research trend of receptors]
-
-[Research trend of topics]
-
-[Research trend of drug discovery]
 
