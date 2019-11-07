@@ -29,7 +29,7 @@
 [DataWrangling and Preprocessing](https://github.com/Shunling/CapstoneProjects/blob/master/NaturalLanguageProcessingGPCR/DataPreprocessing.ipynb)
 
 
-<li> Modeling </div>
+<li> Modeling </li>
 
 [Phrase modeling](https://github.com/Shunling/CapstoneProjects/blob/master/NaturalLanguageProcessingGPCR/FourgramPhrases_Text.ipynb)
 
@@ -38,7 +38,8 @@
 [Clustering for topic modeling](https://github.com/Shunling/CapstoneProjects/blob/master/NaturalLanguageProcessingGPCR/Clustering.ipynb)
 
 
-<li> Data Insights </div>
+<li> Data Insights </li>
+
 [Topic analysis](https://github.com/Shunling/CapstoneProjects/blob/master/NaturalLanguageProcessingGPCR/TopicPrediction.ipynb)
 
-
+[Reseach Trend]
