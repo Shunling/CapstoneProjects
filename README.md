@@ -18,11 +18,11 @@ In this repository, we have the following in-depth full stack Data Science proje
 <div class="span5 alert alert-info">
 <h3>Capstone Project 2</h3>
 <br/>
-<b>Natural Language Processing of GPCR publications to extract research insight for drug discovery:</b> <ol>
+<b>Natural Language Processing of GPCR publications to extract research insight:</b> <ol>
 •Full stack Data Science project including data curation, data cleaning, wrangling, EDA, statistical analysis, neural network modeling topic and classification.
 <br/>
-•Ongoing...
+•Predict topics using neural network and kmeans clusterning, accuracy > 92% (null accuray less than 3%). Visualize research trend in topics, genes and drug development.
 <br/>
-•Tools used: pandas, numpy, json, matplotlib, seaborns, Entrez, requests, bs4, re, spacy, nltk, gensim,  pickle, pyLDAvis, keras.
+•Tools used: pandas, numpy, json, matplotlib, seaborns, Entrez, requests, bs4, re, spacy, nltk, gensim,  pickle, pyLDAvis, Word2Vec.
 </div>
 
