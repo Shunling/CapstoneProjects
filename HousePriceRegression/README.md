@@ -50,7 +50,7 @@
 
 [more_EDA](https://github.com/Shunling/CapstoneProjects/blob/master/HousePriceRegression/Shirley_HousePriceRegression_more_EDA.ipynb)
 
-[Data_insight_price_dif](https://github.com/Shunling/CapstoneProjects/blob/master/HousePriceRegression/Shirley_HousePriceRegression_Data_insight_price_dif.ipynb)
+[Model Validation](https://github.com/Shunling/CapstoneProjects/blob/master/HousePriceRegression/Shirley_HousePriceRegression_Data_insight_price_dif.ipynb)
 
 <li> Prediction of new data </div>
 
