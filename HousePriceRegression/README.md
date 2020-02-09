@@ -18,14 +18,14 @@
     
 [Final report_check_link_here](https://github.com/Shunling/CapstoneProjects/blob/master/HousePriceRegression/HousePriceAdvancedRegression-Report.pdf)
 
-<img src="figures/Report.png" width="186" height="229">
+<img src="figures/Report.png" width="372" height="458">
 
 [Presentation](https://github.com/Shunling/CapstoneProjects/blob/master/HousePriceRegression/HousePricePrediction.pdf)
 </div>
 
-<img src="figures/WorkFlow.png" width="232" height="130">
+<img src="figures/WorkFlow.png" width="464" height="260">
 
-<img src="figures/BI.png" width="240" height="125">
+<img src="figures/BI.png" width="480" height="250">
   
 ### Jupyter Notebooks:
 <ol>
