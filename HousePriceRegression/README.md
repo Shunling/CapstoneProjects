@@ -16,10 +16,16 @@
 ### Final report
 
     
-[Final report](https://github.com/Shunling/CapstoneProjects/blob/master/HousePriceRegression/HousePriceAdvancedRegression-Report.pdf)
+[Final report_check_link_here](https://github.com/Shunling/CapstoneProjects/blob/master/HousePriceRegression/HousePriceAdvancedRegression-Report.pdf)
+
+<img src="figures/Report.png" width="186" height="229">
 
 [Presentation](https://github.com/Shunling/CapstoneProjects/blob/master/HousePriceRegression/HousePricePrediction.pdf)
 </div>
+
+<img src="figures/WorkFlow.png" width="232" height="130">
+
+<img src="figures/BI.png" width="240" height="125">
   
 ### Jupyter Notebooks:
 <ol>
