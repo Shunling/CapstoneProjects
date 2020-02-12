@@ -36,6 +36,10 @@ This website deployed part of the application of this project, including: the re
 
 <img src="R/Rshiny.png" width="790" height="430">
 
+[Medium Post](https://medium.com/@shunling.guo/gpcr-research-trends-fb827144da02)
+
+This Medium post describes the process of the project and explanation/rational for each step.
+
 ### Jupyter Notebooks:
 <ol>
 
