@@ -29,16 +29,15 @@ Findings were deployed by R-shiny website. See Final report.
 
 
 ### Final report and deploy
+[Medium Post](https://medium.com/@shunling.guo/gpcr-research-trends-fb827144da02)
+
+This Medium post describes the process of the project and explanation/rational for each step.
+
 [R-Shiny websites](https://shirley-shunling.shinyapps.io/GPCR/)
 
 This website deployed part of the application of this project, including: the research hotness index chart(paper published regarding this receptor/total paper published that year) for 300+ receptors (100+ are drug targets), and top15 closest research topics table, and the connectome graph of the 300+ G protein coupled receptors.
 
-
 <img src="R/Rshiny.png" width="790" height="430">
-
-[Medium Post](https://medium.com/@shunling.guo/gpcr-research-trends-fb827144da02)
-
-This Medium post describes the process of the project and explanation/rational for each step.
 
 ### Jupyter Notebooks:
 <ol>
